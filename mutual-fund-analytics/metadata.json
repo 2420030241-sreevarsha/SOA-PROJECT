@@ -1,0 +1,6 @@
+{
+  "name": "Mutual Fund Analytics",
+  "description": "AI-Powered Mutual Fund Portfolio Analysis and Investment Tracking System based on Service-Oriented Architecture (SOA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
